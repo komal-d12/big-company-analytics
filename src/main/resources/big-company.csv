@@ -1,0 +1,9 @@
+Id,firstName,lastName,salary,managerId
+123, "Joe", "Doe", 60000d,
+124, "Martin", "Chekov", 45000d, 123
+125, "Bob", "Ronstad", 47000d, 123
+300, "Alice", "Hasacat", 50000d, 124
+305, "Brett", "Hardleaf", 55000d, 300
+307, "Angela", "Smith", 35000d, 305
+308, "Chris", "John", 40000d, 307
+401, "Jean", "Paul", 42000d, 308
